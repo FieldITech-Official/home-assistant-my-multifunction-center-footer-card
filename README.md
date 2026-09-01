@@ -1,4 +1,4 @@
-# 🚨 Carte Multifonction Home Assistant (Button Card)
+# 🏠 Carte Multifonction Home Assistant (Button Card)
 
 Ce dépôt fournit la configuration YAML pour déployer une carte de tableau de bord hautement personnalisable et dynamique sous **Home Assistant** à l'aide de la **`custom:button-card`**. Ce système intègre un en-tête avec badge de présence, un bloc central interactif (température, humidité, navigation de pièce) et un pied de page modulable par grille pour regrouper l'ensemble de vos entités.
 

@@ -1,3 +1,13 @@
+### ☕ Soutenir le projet
+
+Si ce projet vous est utile et vous fait gagner un peu de temps, vous pouvez m'aider en [mettant une petite étoile au dépôt](https://github.com/fielditech), en partageant vos configurations, en faisant un retour, ou tout simplement en m'offrant un café.
+
+<div align="center">
+  <a href="https://buymeacoffee.com/fielditech" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</div>
+
 # 🏠 Carte Multifonction Home Assistant (Button Card)
 
 Ce dépôt fournit la configuration YAML pour déployer une carte de tableau de bord hautement personnalisable et dynamique sous **Home Assistant** à l'aide de la **`custom:button-card`**. Ce système intègre un en-tête avec badge de présence, un bloc central interactif (température, humidité, navigation de pièce) et un pied de page modulable par grille pour regrouper l'ensemble de vos entités.
